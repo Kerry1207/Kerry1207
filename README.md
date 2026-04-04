@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Antonio&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">I love blockchain technology and developing smart contracts with Solidity.<br/>Currently working as a Software Developer.</h3>
+<h3 align="center">Tech Lead at a multinational IT consulting company, with deep expertise in blockchain and smart contract development.<br/>I push every project to its limits — quitting is simply not an option.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kerry1207&style=for-the-badge&color=blueviolet" />
