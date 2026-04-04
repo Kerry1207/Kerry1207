@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Antonio&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Tech Lead at a multinational IT consulting company, with deep expertise in blockchain and smart contract development.<br/>I push every project to its limits — quitting is simply not an option.</h3>
+<h3 align="center">Tech Lead at a multinational IT consulting company</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kerry1207&style=for-the-badge&color=blueviolet" />
@@ -11,11 +11,11 @@
 ---
 
 ## About Me
-
-> I love blockchain technology and developing smart contracts with Solidity.
-> Currently working as a Software Developer.
-
----
+<ul>
+  <li>Deep expertise in blockchain and smart contract development;</li>
+  <li>Expertise in Spring Boot microservice;</li>
+  <li>I push every project to its limits — quitting is simply not an option.</li>
+</ul>
 
 ## Tech Stack
 
@@ -28,10 +28,14 @@
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **AI**
 
-![Artificial Intelligence](https://img.shields.io/badge/artificial_intelligence-badge?style=for-the-badge&labelColor=%2376aa9c&color=%2376aa9c)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Agents](https://img.shields.io/badge/Agents-00A67E?style=for-the-badge&logo=probot&logoColor=white)
 
 ---
 
