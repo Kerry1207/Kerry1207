@@ -35,12 +35,7 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=kerry1207&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerry1207&layout=donut&theme=tokyonight&hide_border=true" />
-</p>
+## Social Stats
 
 <p align="center">
   <a href="https://stackoverflow.com/users/12504711/antonio-carito">
